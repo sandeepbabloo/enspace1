@@ -1,0 +1,806 @@
+# Copyright (C) 2017 wpshopmart
+# This file is distributed under the GNU General Public License v3.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Venta 1.0\n"
+"POT-Creation-Date: 2017-11-30 17:14+0530\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:29
+msgid "Go To Home Page"
+msgstr ""
+
+#: comments.php:38
+msgid "Pingback:"
+msgstr ""
+
+#: comments.php:38 comments.php:51 content.php:45
+#: template-parts/content-search.php:22
+msgid "Edit"
+msgstr ""
+
+#: comments.php:93 inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:94 inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:106
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:116
+msgid "submit comment"
+msgstr ""
+
+#: comments.php:117
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:120
+msgid "Your Message"
+msgstr ""
+
+#: comments.php:125
+msgid "Your Name (Required)&hellip;"
+msgstr ""
+
+#: comments.php:129
+msgid "Your Email (Required)&hellip;"
+msgstr ""
+
+#: comments.php:133
+msgid "Your Website&hellip;"
+msgstr ""
+
+#: functions.php:112
+msgid "The primary widget area"
+msgstr ""
+
+#: functions.php:153
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:530
+msgctxt "breadcrumb"
+msgid "HOME"
+msgstr ""
+
+#: functions.php:547
+msgid "BLOG"
+msgstr ""
+
+#: functions.php:619
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:621
+msgid "Search results for"
+msgstr ""
+
+#: functions.php:636
+msgid "Page"
+msgstr ""
+
+#: home.php:45
+msgid "No Posts Found"
+msgstr ""
+
+#: inc/customizer.php:15
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer-blogsection.php:5
+msgid "Blog Section Image"
+msgstr ""
+
+#: inc/customizer/customizer-blogsection.php:24
+msgid "Section Image "
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:5
+msgid "Our Clients"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:22
+msgid "Show Client Section?"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:38
+msgid "Client Heading"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:53
+msgid "Client Sub Heading"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:69
+msgid "Client Image-1"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:84
+msgid "Client Image-2"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:99
+msgid "Client Image-3"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:114
+msgid "Client Image-4"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:128
+msgid "Client Image-5"
+msgstr ""
+
+#: inc/customizer/customizer-clients.php:142
+msgid "Client Image-6"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:4
+msgid "Footer Option"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:21
+msgid "Devoloped By"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:37
+msgid "Company Name"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:52
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/customizer-footer.php:68
+msgid "Developer Company Link "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:6
+msgid "Fun Facts"
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:22
+msgid "Show Fun Fact Section?"
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:40
+msgid "Background Image "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:55
+#: inc/customizer/customizer-latestpost.php:38
+#: inc/customizer/customizer-services.php:86
+#: inc/customizer/customizer-team.php:79
+#: inc/customizer/customizer-testimonial.php:52
+#: inc/customizer/customizer-works.php:40
+msgid "Heading "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:70
+#: inc/customizer/customizer-latestpost.php:54
+#: inc/customizer/customizer-services.php:101
+#: inc/customizer/customizer-team.php:96
+#: inc/customizer/customizer-testimonial.php:69
+#: inc/customizer/customizer-works.php:57
+msgid "Sub Heading "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:85
+msgid "Funfacts Column Layout"
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:105
+msgid "Display Number of Funfacts"
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:127
+#: inc/customizer/customizer-services.php:167
+msgid "Icon-1 "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:143
+msgid "Total-1 "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:160
+msgid "Title-1"
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:176
+#: inc/customizer/customizer-services.php:213
+msgid "Icon-2 "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:192
+msgid "Total-2 "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:209
+msgid "Title-2"
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:225
+#: inc/customizer/customizer-services.php:260
+msgid "Icon-3 "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:241
+msgid "Total-3 "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:258
+#: inc/customizer/customizer-services.php:275
+msgid "Title-3"
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:274
+msgid "Icon-4 "
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:292
+msgid "Total-4"
+msgstr ""
+
+#: inc/customizer/customizer-funfacts.php:308
+msgid "Title-4"
+msgstr ""
+
+#: inc/customizer/customizer-genraloption.php:6
+msgid "Logo Options"
+msgstr ""
+
+#: inc/customizer/customizer-genraloption.php:39
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer/customizer-genraloption.php:54
+msgid "Logo Height"
+msgstr ""
+
+#: inc/customizer/customizer-genraloption.php:71
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer/customizer-latestpost.php:5
+msgid "Latest Post"
+msgstr ""
+
+#: inc/customizer/customizer-latestpost.php:22
+msgid "Show Latest Post Section?"
+msgstr ""
+
+#: inc/customizer/customizer-latestpost.php:72
+msgid "Blog/Page Section Image "
+msgstr ""
+
+#: inc/customizer/customizer-services.php:6
+msgid "Service Section"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:23
+msgid "Display Number of services"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:47
+msgid "Service Column Layout"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:70
+msgid "Show Service Section?"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:118
+msgid "Icon-1"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:120
+msgid "Insert font awesome Class Name"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:135
+#: inc/customizer/customizer-services.php:182
+msgid "Title-1 "
+msgstr ""
+
+#: inc/customizer/customizer-services.php:151
+#: inc/customizer/customizer-services.php:197
+#: inc/customizer/customizer-team.php:240
+msgid "Description-1"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:228
+msgid "Title-2 "
+msgstr ""
+
+#: inc/customizer/customizer-services.php:244
+#: inc/customizer/customizer-team.php:381
+msgid "Description-2"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:291
+msgid "Description-3"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:307
+msgid "Icon-4"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:322
+msgid "Title-4 "
+msgstr ""
+
+#: inc/customizer/customizer-services.php:338
+msgid "Description-4"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:354
+msgid "Icon-5"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:369
+msgid "Title-5"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:385
+msgid "Description-5"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:401
+msgid "Icon-6"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:416
+msgid "Title-6"
+msgstr ""
+
+#: inc/customizer/customizer-services.php:432
+msgid "Description-6"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:6
+msgid "Slider Option"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:23
+msgid "Slider Image One"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:37
+msgid "Change Slide1 Title "
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:53
+msgid "Slide1 SubTitle "
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:71
+msgid "Slider Image Two"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:86
+msgid "Change Slide2 Title "
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:102
+msgid "Slide2 SubTitle "
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:120
+msgid "Slider ImageThree"
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:136
+msgid "Change Slide3 Title "
+msgstr ""
+
+#: inc/customizer/customizer-slider.php:152
+msgid "Slide3 SubTitle "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:4
+msgid "Team Options"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:21
+msgid "Display Number of Members"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:42
+msgid "Member Column Layout"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:63
+msgid "Show Creative Team"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:112
+msgid "Name-1 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:129
+msgid "Profile-1 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:144
+msgid "Member-1 Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:160
+msgid "Member-1 Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:176
+msgid "Member-1 Linkedin URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:192
+msgid "Member-1 Skype ID"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:207
+msgid "Member-1 Instagram URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:224
+msgid "Designation-1 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:256
+msgid "Name-2 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:273
+msgid "Profile-2 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:288
+msgid "Member-2 Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:304
+msgid "Member-2 Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:319
+msgid "Member-2 Linkedin URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:335
+msgid "Member-2 Skype ID"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:350
+msgid "Member-2 Instagram URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:366
+msgid "Designation-2 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:397
+msgid "Name-3 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:424
+msgid "Profile-3 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:439
+msgid "Member-3 Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:455
+msgid "Member-3 Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:470
+msgid "Member-3 Linkedin URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:486
+msgid "Member-3 Skype ID"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:501
+msgid "Member-3 Instagram URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:509
+msgid "Designation-3 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:525
+msgid "description-3 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:541
+msgid "Name-4 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:558
+msgid "Profile-4 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:573
+msgid "Member-4 Twitter URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:589
+msgid "Member-4 Facebook URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:605
+msgid "Member-4 Linkedin URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:621
+msgid "Member-4 Skype ID"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:636
+msgid "Member-4 Instagram URL"
+msgstr ""
+
+#: inc/customizer/customizer-team.php:653
+msgid "Designation-4 "
+msgstr ""
+
+#: inc/customizer/customizer-team.php:669
+msgid "description-4 "
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:4
+msgid "Testimonial"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:21
+msgid "Show testimonial Section?"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:37
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:84
+msgid "First Profile Image"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:99
+msgid "testimonial-1"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:117
+msgid "Author-1"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:133
+msgid "Second Profile Image"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:148
+msgid "testimonial-2"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:164
+msgid "Author-2"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:180
+msgid "Third Profile Image"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:195
+msgid "testimonial-3"
+msgstr ""
+
+#: inc/customizer/customizer-testimonial.php:210
+msgid "Author-3"
+msgstr ""
+
+#: inc/customizer/customizer-works.php:7
+msgid "Our Works"
+msgstr ""
+
+#: inc/customizer/customizer-works.php:24
+msgid "Show Our Works Section?"
+msgstr ""
+
+#: inc/customizer/customizer-works.php:73
+msgid "Display Number of Works"
+msgstr ""
+
+#: inc/customizer/customizer-works.php:97
+msgid "Works Column Layout"
+msgstr ""
+
+#: inc/customizer/customizer-works.php:121
+msgid "Our Works-1 Image "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:136
+msgid "Work-1 Title "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:151
+msgid "Work-1 Link "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:169
+msgid "Our Works-2 Image "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:184
+msgid "Work-2 Title "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:200
+msgid "Work-2 Link "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:218
+msgid "Our Works-3 Image "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:233
+msgid "Work-3 Title "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:248
+msgid "Work-3 Link "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:266
+msgid "Our Works-4 Image "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:280
+msgid "Work-4 Title "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:295
+msgid "Work-4 Link "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:314
+msgid "Our Works-5 Image "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:329
+msgid "Work-5 Title "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:344
+msgid "Work-5 Link "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:363
+msgid "Our Works-6 Image "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:377
+msgid "Work-6 Title "
+msgstr ""
+
+#: inc/customizer/customizer-works.php:393
+msgid "Work-6 Link "
+msgstr ""
+
+#: inc/extras.php:13
+msgctxt "label"
+msgid "Search"
+msgstr ""
+
+#: inc/extras.php:15
+msgctxt "placeholder"
+msgid "Search here..."
+msgstr ""
+
+#: inc/extras.php:15
+msgctxt "label"
+msgid ""
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:91 inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: inc/template-tags.php:123
+#, php-format
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:238
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/page/home-latestpost.php:34
+msgid "(.)"
+msgstr ""
